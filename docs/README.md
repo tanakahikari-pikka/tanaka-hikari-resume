@@ -1,3 +1,9 @@
+<!--
+git commit -m "コミット内容"
+git tag v1.0   # vの数値は状況に応じて設定する
+git push origin --tags
+-->
+
 # 職務経歴書
 
 ## 基本情報
