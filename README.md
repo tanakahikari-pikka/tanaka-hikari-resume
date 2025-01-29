@@ -2,7 +2,7 @@
 
 ## Sample
 
-https://github.com/kawamataryo/resume
+https://tanakahikari-pikka.github.io/tanaka-hikari-resume/
 
 ## Features
 
